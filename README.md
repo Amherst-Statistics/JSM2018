@@ -1,13 +1,13 @@
 # JSM2018
 Talks from the Joint Statistical Meetings 2018 (Vancouver, British Columbia)
 
+
+## Bringing Intro Stats into a Multivariate and Data-Rich World — Invited Papers (Section on Statistical Education)
+
 https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215024
 
-380	Tue, 7/31/2018, 2:00 PM - 3:50 PM	CC-West 206/207
+Tue, 7/31/2018, 2:00 PM - 3:50 PM	CC-West 206/207
 
-Bringing Intro Stats into a Multivariate and Data-Rich World — Invited Papers
-
-Section on Statistical Education
 
 Organizer(s): Jeff Witmer, Oberlin College
 
@@ -28,11 +28,14 @@ Chair(s): Ann Cannon, Cornell College
 
 
 
+
+## Introductory Overview Lecture: Examining What and How We Teach at All Levels: Key Ideas to Ensure the Progress and Relevance of Statistics — Invited Special Presentation (JSM Partner Societies)
+
+Sun, 7/29/2018, 4:00 PM - 5:50 PM	CC-West 301
+
 https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215836
 
-Introductory Overview Lecture: Examining What and How We Teach at All Levels: Key Ideas to Ensure the Progress and Relevance of Statistics — Invited Special Presentation
 
-JSM Partner Societies
 
 Organizer(s): Rebecca Nugent, Carnegie Mellon University
 
