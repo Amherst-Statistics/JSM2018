@@ -8,7 +8,7 @@ Bringing Intro Stats into a Multivariate and Data-Rich World — Invited Papers
 Section on Statistical Education
 Organizer(s): Jeff Witmer, Oberlin College
 Chair(s): Ann Cannon, Cornell College
-2:05 PM	Inference in Three Hours, and More Time for the Good Stuff — Allen Downey, Olin College of Engineering
+2:05 PM	Inference in Three Hours, and More Time for the Good Stuff — Allen Downey, Olin College of Engineering [slides](http://allendowney.blogspot.com/2018/06/inference-in-three-hours.html)
 2:25 PM	Multivariable Thinking with Data Visualization — Kari Lock Morgan, Pennsylvania State University
 2:45 PM	Multivariate Thinking and the Introductory Statistics Course: Preparing Students to Make Sense of a World Full of Observational Data — Nicholas J. Horton, Amherst College ; Sarah C Anoke, Harvard TH Chan School of Public Health ; Brendan Seto, Amherst College
 3:05 PM	Intro Stats and Intro Data Science: Do We Need Both? — Mine Cetinkaya-Rundel, Duke University
@@ -30,3 +30,5 @@ It has never been a better time to be a statistician. Demand for our profession 
 5:05 PM	Future of PhD Statistics/Biostatistics Education — Daniela Witten, University of Washington
 5:35 PM	Floor Discussion
 
+
+Last updated July 8, 2018
