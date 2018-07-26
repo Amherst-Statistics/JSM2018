@@ -18,7 +18,7 @@ Chair(s): Mine Cetinkaya-Rundel, Duke University
 It has never been a better time to be a statistician. Demand for our profession continues to grow while the emergence of data science has invigorated both industry and academia. However, our education programs are simultaneously facing record numbers of students, the need to keep pace with the rapidly changing set of data-related tools and software development, and unparalleled diversity of career options. Innovation in education and training is a must at all levels, but it can seem daunting - where to begin? This IOL session will highlight changes in the national landscape for introductory level material and both undergraduate and graduate programs in statistics, biostatistics, and data science. We will give an overview of where we are as a field, emphasizing new ideas that could be adopted relatively smoothly, and provoke discussion about where we should be and what it will take to get there.
 
 
-4:05 PM	Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head — Nicholas J. Horton, Amherst College ([slides](https:jsm-iol2018.pdf))
+4:05 PM	Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head — Nicholas J. Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm-iol2018.pdf))
 
 4:35 PM	Evolution of the Undergraduate Statistics Program — Rebecca Nugent, Carnegie Mellon University
 
@@ -41,7 +41,7 @@ Chair(s): Ann Cannon, Cornell College
 
 2:25 PM	Multivariable Thinking with Data Visualization — Kari Lock Morgan, Pennsylvania State University
 
-2:45 PM	Multivariate Thinking and the Introductory Statistics Course: Preparing Students to Make Sense of a World Full of Observational Data — Nicholas J. Horton, Amherst College; Sarah C Anoke, Harvard TH Chan School of Public Health; Brendan Seto, Amherst College ([slides](https:jsm2018confound.pdf))
+2:45 PM	Multivariate Thinking and the Introductory Statistics Course: Preparing Students to Make Sense of a World Full of Observational Data — Nicholas J. Horton, Amherst College; Sarah C Anoke, Harvard TH Chan School of Public Health; Brendan Seto, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm2018confound.pdf))
 
 3:05 PM	Intro Stats and Intro Data Science: Do We Need Both? — Mine Cetinkaya-Rundel, Duke University
 
