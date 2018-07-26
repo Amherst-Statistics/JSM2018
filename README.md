@@ -57,10 +57,14 @@ Chair(s): Ann Cannon, Cornell College
 
 - Cetinkaya-Rundel and Rundel (2018) "Infrastructure and Tools for Teaching Computing Throughout the Statistical Curriculum", https://amstat.tandfonline.com/doi/full/10.1080/00031305.2017.1397549
 - Electronic Conference on Teaching Statistics (2018), https://www.causeweb.org/cause/ecots/ecots18/program
+- GAISE College report (2016) "Guidelines for Assessment and Instruction in Statistics Education", http://www.amstat.org/asa/education/Guidelines-for-Assessment-and-Instruction-in-Statistics-Education-Reports.aspx
 - Horton and Hardin (2015) "Teaching the Next Generation of Statistics Students to 'Think With Data': Special Issue on Statistics and the Undergraduate Curriculum", *The American Statistician*, 
 https://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
+- Mosaic Resources (2018) "Resources Related to the mosaic Package", https://cran.r-project.org/web/packages/mosaic/vignettes/mosaic-resources.html
 - National Academy of Sciences (2018) "Undergraduate Data Science: Opportunities and Options" https://nas.edu/envisioningds
+- Nolan and Temple Lang (2010) "Computing in the Statistics Curriculum", *The American Statistician", https://amstat.tandfonline.com/doi/abs/10.1198/tast.2010.09132
 - Pruim, Kaplan, and Horton (2017) "The mosaic Package: Helping Students to Think with Data Using R", *RJournal*, https://journal.r-project.org/archive/2017/RJ-2017-024/index.html
 - Robinson (2017) "Teach the tidyverse to beginners", http://varianceexplained.org/r/teach-tidyverse/ (see also https://cran.r-project.org/web/packages/ggformula/vignettes/ggformula-blog.html)
+- Wang (2017) "Data Visualization on Day One: Bringing Big Ideas into Intro Stats Early and Often", *Technology Innovations in Statistics Education*, https://escholarship.org/uc/item/84v3774z
 
 Last updated July 26, 2018
