@@ -39,7 +39,7 @@ Chair(s): Ann Cannon, Cornell College
 
 2:05 PM	Inference in Three Hours, and More Time for the Good Stuff — Allen Downey, Olin College of Engineering ([slides](http://allendowney.blogspot.com/2018/06/inference-in-three-hours.html))
 
-2:25 PM	Multivariable Thinking with Data Visualization — Kari Lock Morgan, Pennsylvania State University
+2:25 PM	Multivariable Thinking with Data Visualization — Kari Lock Morgan, Pennsylvania State University ([slides](http://www.personal.psu.edu/klm47/presentations.htm))
 
 2:45 PM	Multivariate Thinking and the Introductory Statistics Course: Preparing Students to Make Sense of a World Full of Observational Data — Nicholas J. Horton, Amherst College; Sarah C Anoke, Harvard TH Chan School of Public Health; Brendan Seto, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm2018confound.pdf))
 
@@ -67,4 +67,4 @@ https://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
 - Robinson (2017) "Teach the tidyverse to beginners", http://varianceexplained.org/r/teach-tidyverse/ (see also https://cran.r-project.org/web/packages/ggformula/vignettes/ggformula-blog.html)
 - Wang (2017) "Data Visualization on Day One: Bringing Big Ideas into Intro Stats Early and Often", *Technology Innovations in Statistics Education*, https://escholarship.org/uc/item/84v3774z
 
-Last updated July 26, 2018
+Last updated July 27, 2018
