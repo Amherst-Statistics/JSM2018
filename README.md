@@ -20,7 +20,8 @@ It has never been a better time to be a statistician. Demand for our profession 
 
 4:05 PM	Introductory Statistics in a World of Data Science: Where We Are and Where We Need to Head — Nicholas J. Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm-iol2018.pdf))
 
-4:35 PM	Evolution of the Undergraduate Statistics Program — Rebecca Nugent, Carnegie Mellon University
+4:35 PM	Evolution of the Undergraduate Statistics Program — Rebecca Nugent, Carnegie Mellon University ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/JSM-IOLnugent.pdf))
+
 
 5:05 PM	Future of PhD Statistics/Biostatistics Education — Daniela Witten, University of Washington ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Witten-JSM-2018-IOL.pdf))
 
