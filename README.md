@@ -22,7 +22,7 @@ It has never been a better time to be a statistician. Demand for our profession 
 
 4:35 PM	Evolution of the Undergraduate Statistics Program — Rebecca Nugent, Carnegie Mellon University
 
-5:05 PM	Future of PhD Statistics/Biostatistics Education — Daniela Witten, University of Washington
+5:05 PM	Future of PhD Statistics/Biostatistics Education — Daniela Witten, University of Washington ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Witten-JSM-2018-IOL.pdf))
 
 5:35 PM	Floor Discussion
 
@@ -38,9 +38,9 @@ Chair(s): Amy Wagler, The University of Texas at El Paso
 
 2:25 PM	An Interdisciplinary Approach to Data Science Education — Galin Jones, University of Minnesota ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Jones_JSM2018.pdf))
 
-2:45 PM	Scaling a Data Science Curriculum to the Masses: Success and Failures in the Undergraduate Classroom — Thomas Fisher, Miami University ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/2018jsmFisherPresentation))
+2:45 PM	Scaling a Data Science Curriculum to the Masses: Success and Failures in the Undergraduate Classroom — Thomas Fisher, Miami University ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/2018jsmFisherPresentation.pdf))
 
-3:05 PM	Data Science: a Recent Graduate's 'Reverse Engineered' Perspective — Kelsey Warsinske, DePauw University, Miami University, Facebook
+3:05 PM	Data Science: a Recent Graduate's 'Reverse Engineered' Perspective — Kelsey Warsinske, DePauw University, Miami University, Facebook ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/XX.pptx))
 
 3:25 PM	Discussant: Nicholas J. Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm2018discuss.pdf))
 
