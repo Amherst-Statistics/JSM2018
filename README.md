@@ -29,6 +29,8 @@ It has never been a better time to be a statistician. Demand for our profession 
 
 ## Data Science Education - Successes and Challenges: Stories from the Classroom and Beyond — Invited Papers
 
+Sun, 7/29/2018, 2:00 PM - 3:50 PM	CC-West 202
+
 Journal of Statistics Education , Business Analytics/Statistics Education Interest Group , Section on Statistical Education
 
 Organizer(s): Soma Roy, Cal Poly, San Luis Obispo
