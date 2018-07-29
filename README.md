@@ -26,6 +26,24 @@ It has never been a better time to be a statistician. Demand for our profession 
 
 5:35 PM	Floor Discussion
 
+## Data Science Education - Successes and Challenges: Stories from the Classroom and Beyond — Invited Papers
+
+Journal of Statistics Education , Business Analytics/Statistics Education Interest Group , Section on Statistical Education
+
+Organizer(s): Soma Roy, Cal Poly, San Luis Obispo
+
+Chair(s): Amy Wagler, The University of Texas at El Paso
+
+2:05 PM	Teaching Students to Think About Data Representation — Dennis L Sun, Cal Poly and Google
+
+2:25 PM	An Interdisciplinary Approach to Data Science Education — Galin Jones, University of Minnesota ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Jones_JSM2018.pdf))
+
+2:45 PM	Scaling a Data Science Curriculum to the Masses: Success and Failures in the Undergraduate Classroom — Thomas Fisher, Miami University
+
+3:05 PM	Data Science: a Recent Graduate's 'Reverse Engineered' Perspective — Kelsey Warsinske, DePauw University, Miami University, Facebook
+
+3:25 PM	Discussant: Nicholas J. Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm2018discuss.pdf))
+
 ## Bringing Intro Stats into a Multivariate and Data-Rich World — Invited Papers (Section on Statistical Education)
 
 https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215024
@@ -67,4 +85,4 @@ https://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
 - Robinson (2017) "Teach the tidyverse to beginners", http://varianceexplained.org/r/teach-tidyverse/ (see also https://cran.r-project.org/web/packages/ggformula/vignettes/ggformula-blog.html)
 - Wang (2017) "Data Visualization on Day One: Bringing Big Ideas into Intro Stats Early and Often", *Technology Innovations in Statistics Education*, https://escholarship.org/uc/item/84v3774z
 
-Last updated July 27, 2018
+Last updated July 29, 2018
