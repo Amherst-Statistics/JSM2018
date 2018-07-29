@@ -38,7 +38,7 @@ Chair(s): Amy Wagler, The University of Texas at El Paso
 
 2:25 PM	An Interdisciplinary Approach to Data Science Education — Galin Jones, University of Minnesota ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Jones_JSM2018.pdf))
 
-2:45 PM	Scaling a Data Science Curriculum to the Masses: Success and Failures in the Undergraduate Classroom — Thomas Fisher, Miami University
+2:45 PM	Scaling a Data Science Curriculum to the Masses: Success and Failures in the Undergraduate Classroom — Thomas Fisher, Miami University ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/2018jsmFisherPresentation))
 
 3:05 PM	Data Science: a Recent Graduate's 'Reverse Engineered' Perspective — Kelsey Warsinske, DePauw University, Miami University, Facebook
 
