@@ -34,7 +34,7 @@ Organizer(s): Soma Roy, Cal Poly, San Luis Obispo
 
 Chair(s): Amy Wagler, The University of Texas at El Paso
 
-2:05 PM	Teaching Students to Think About Data Representation — Dennis L Sun, Cal Poly and Google
+2:05 PM	Teaching Students to Think About Data Representation — Dennis L Sun, Cal Poly and Google ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Sun_data_science.pdf))
 
 2:25 PM	An Interdisciplinary Approach to Data Science Education — Galin Jones, University of Minnesota ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/Jones_JSM2018.pdf))
 
