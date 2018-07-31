@@ -64,7 +64,7 @@ Chair(s): Ann Cannon, Cornell College
 
 2:45 PM	Multivariate Thinking and the Introductory Statistics Course: Preparing Students to Make Sense of a World Full of Observational Data — Nicholas J. Horton, Amherst College; Sarah C Anoke, Harvard TH Chan School of Public Health; Brendan Seto, Amherst College ([slides](https://github.com/Amherst-Statistics/JSM2018/blob/master/jsm2018confound.pdf))
 
-3:05 PM	Intro Stats and Intro Data Science: Do We Need Both? — Mine Cetinkaya-Rundel, Duke University
+3:05 PM	Intro Stats and Intro Data Science: Do We Need Both? — Mine Cetinkaya-Rundel, Duke University ([slides](http://bit.ly/intro-stat-ds))
 
 3:25 PM	Discussant: Jeff Witmer, Oberlin College
 
