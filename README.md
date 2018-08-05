@@ -88,4 +88,7 @@ https://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
 - Robinson (2017) "Teach the tidyverse to beginners", http://varianceexplained.org/r/teach-tidyverse/ (see also https://cran.r-project.org/web/packages/ggformula/vignettes/ggformula-blog.html)
 - Wang (2017) "Data Visualization on Day One: Bringing Big Ideas into Intro Stats Early and Often", *Technology Innovations in Statistics Education*, https://escholarship.org/uc/item/84v3774z
 
-Last updated July 29, 2018
+
+See also https://github.com/beanumber/jsm2018 for materials from "Expanding the Tent: Undergraduate Majors in Data Science"
+
+Last updated August 5, 2018
